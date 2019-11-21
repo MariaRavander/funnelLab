@@ -1,0 +1,4 @@
+app.log
+*.out
+target/
+.DS_Store
